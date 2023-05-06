@@ -1,0 +1,11 @@
+
+.quantity {
+  text-align: center;
+  padding-top: 10px;
+    justify-content: space-around 2px ;
+}
+.quantity button {
+  justify-content: center;
+margin: 5px;
+  size: 2rem;
+}
