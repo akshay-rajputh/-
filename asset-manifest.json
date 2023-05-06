@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/testproject/static/css/main.2d33163b.css",
-    "main.js": "/testproject/static/js/main.5ab8167c.js",
-    "static/js/787.6d694c4a.chunk.js": "/testproject/static/js/787.6d694c4a.chunk.js",
-    "static/media/mobile.png": "/testproject/static/media/mobile.2d6280882e7c04c7c6d4.png",
-    "static/media/charger.jpg": "/testproject/static/media/charger.b11069ab713ea4b3ea70.jpg",
-    "static/media/headphone.jpg": "/testproject/static/media/headphone.db20866d575cab3bf08e.jpg",
-    "static/media/cart.png": "/testproject/static/media/cart.75ee92a4cef419f07d34.png",
-    "index.html": "/testproject/index.html",
-    "main.2d33163b.css.map": "/testproject/static/css/main.2d33163b.css.map",
-    "main.5ab8167c.js.map": "/testproject/static/js/main.5ab8167c.js.map",
-    "787.6d694c4a.chunk.js.map": "/testproject/static/js/787.6d694c4a.chunk.js.map"
+    "main.css": "/ReactAssignment/static/css/main.2d33163b.css",
+    "main.js": "/ReactAssignment/static/js/main.7403d306.js",
+    "static/js/787.6d694c4a.chunk.js": "/ReactAssignment/static/js/787.6d694c4a.chunk.js",
+    "static/media/mobile.png": "/ReactAssignment/static/media/mobile.2d6280882e7c04c7c6d4.png",
+    "static/media/charger.jpg": "/ReactAssignment/static/media/charger.b11069ab713ea4b3ea70.jpg",
+    "static/media/headphone.jpg": "/ReactAssignment/static/media/headphone.db20866d575cab3bf08e.jpg",
+    "static/media/cart.png": "/ReactAssignment/static/media/cart.75ee92a4cef419f07d34.png",
+    "index.html": "/ReactAssignment/index.html",
+    "main.2d33163b.css.map": "/ReactAssignment/static/css/main.2d33163b.css.map",
+    "main.7403d306.js.map": "/ReactAssignment/static/js/main.7403d306.js.map",
+    "787.6d694c4a.chunk.js.map": "/ReactAssignment/static/js/787.6d694c4a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d33163b.css",
-    "static/js/main.5ab8167c.js"
+    "static/js/main.7403d306.js"
   ]
 }
